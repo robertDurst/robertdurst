@@ -1,6 +1,6 @@
 ## Programming Languages 
 
-While what I've learned from hacking around on programming languages comes up every now and then on the day-to-day at work, my exploration of programming languages is not yet my professional calling. However, as of late, I've started making a step in the right direction and have started some research with the University of Utah (my new home summer 2023!).
+While what I've learned from hacking around on programming languages comes up every now and then on the day-to-day at work, my exploration of programming languages is not yet my professional calling. However, as of late, I've started making a step in the right direction and have started some research with the University of Utah (moving to SLC summer 2023!).
 
 ### Cool PL Stuff I've Done this Far
 
