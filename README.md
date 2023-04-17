@@ -20,4 +20,4 @@ I've also blogged for work:
   
 ## Meetups
 
-I was at one point the co-host for the largest developer only cryptocurrent meetup in the SF Bay Area (circa 2018). I had a lot of fun and am definitely hoping to get back to hosting meetups in the near future.
+I was at one point the co-host for the largest developer only cryptocurrency meetup in the SF Bay Area (circa 2018). I had a lot of fun and am definitely hoping to get back to hosting meetups in the near future.
