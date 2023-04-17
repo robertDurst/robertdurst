@@ -1,4 +1,4 @@
-*Budding PL researcher in the 801. Software engineer @ [Spring Health](https://www.springhealth.com/) by day. Occasional herper ([lifer list](https://github.com/robertDurst/lifers_list), freequent traveler, and even more frequent caffeine consumer.*
+*Budding PL researcher in the 801. Software engineer @ [Spring Health](https://www.springhealth.com/) by day. Occasional herper ([lifer list](https://github.com/robertDurst/lifers_list)), frequent traveler, and even more frequent caffeine consumer.*
 
 ***
 
