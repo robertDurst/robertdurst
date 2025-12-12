@@ -1,10 +1,3 @@
-
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=robertDurst&show_icons=true&theme=radical)">
-</p>
-
-***
-
 ## Me
 
 Software engineer @ [Spring Health](https://www.springhealth.com/) by day. Occasional herper ([lifer list](https://github.com/robertDurst/lifers_list)), frequent traveler, and even more frequent caffeine consumer.
