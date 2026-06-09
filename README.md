@@ -4,7 +4,7 @@
 
 1️⃣ I’m building [Caffeine](https://caffeine-lang.run/) ☕: `a compiler that generates reliability artifacts from service expectation definitions.`
 
-2️⃣ I'm also hacking on [Manatee](https://github.com/Brickell-Research/manatee) to see how far I can take a hand-crafted, bespoke agent coding harness (written in Gleam of course!).
+2️⃣ I'm also hacking on [Manatee](https://github.com/Brickell-Research/manatee) to see how far I can take a hand-crafted, bespoke agentic coding harness (_written in Gleam of course!!_).
 
 3️⃣ Professionally I am a `Staff Software Engineer` @ [Pair Team](https://pairteam.com/).
 
